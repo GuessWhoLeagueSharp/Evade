@@ -1,0 +1,48 @@
+TO DO:
+Cassiopeia W
+Fizz Q
+Graves R (cone)
+Heimerdinger E (Ult)
+Kalista R?
+Karma Q (Circle)
+LeeSin R?
+Lucian W (explosion)
+Sejuani R (AOE)?
+Sion Q
+Yorick W and E
+
+Fix velkoz w
+Fix Zed E
+Fix Graves Q split and return
+Fix Riven W
+Fix Snowball Aram
+Fix Vlad R
+
+Patch Notes:
+-Cleaned up the code so it is easier to read/navigate/update
+-Updated over 230 spell values to be in line with path 6.19
+-Fixed Rengar empowered E detection
+-Fixed Poppy Q
+-Fixed pulsfire Ezreal Q
+-Fixed Viktor E
+-Removed old Zyra passive
+-Added the following missing spells:
+	Azir Q and R
+	Alistar Q
+	Chogath W
+	Graves W
+	Hecarim R
+	Heimerdinger turret shot, big and small
+	Jarvan R
+	Kassadin E
+	Lissandra W
+	Maokai Q and E
+	Mord E
+	Pantheon E
+	Poppy R
+	Wukong R
+	Soraka E
+	Twitch R
+	Viktor W
+	Zac E and R
+	Zyra R
