@@ -26,6 +26,7 @@ Patch Notes:
 -Fixed pulsfire Ezreal Q
 -Fixed Viktor E
 -Fixed Malzahar Q
+-Fixed Nami Q
 -Removed old Zyra passive
 -Added the following missing spells:
 	Azir Q and R
