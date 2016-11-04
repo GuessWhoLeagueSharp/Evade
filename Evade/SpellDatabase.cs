@@ -2990,13 +2990,13 @@ namespace Evade
                 new SpellData
                 {
                     ChampionName = "Nami",
-                    SpellName = "NamiQ",
+                    SpellName = "namiq",
                     Slot = SpellSlot.Q,
                     Type = SkillShotType.SkillshotCircle,
-                    Delay = 500,
+                    Delay = 450,
                     Range = 875,
                     Radius = 200,
-                    MissileSpeed = int.MaxValue,
+                    MissileSpeed = 2500,
                     FixedRange = false,
                     AddHitbox = true,
                     DangerValue = 3,
@@ -4718,7 +4718,28 @@ namespace Evade
             #endregion Yasuo
                 
             #region Yorick
-            //TODO: Yorick W and E
+                
+            Spells.Add(
+                new SpellData
+                {
+                    ChampionName = "Yorick",
+                    SpellName = "YorickW",
+                    Slot = SpellSlot.W,
+                    Type = SkillShotType.SkillshotCircle,
+                    Delay = 500,
+                    ExtraDuration = 1000,
+                    Range = 600,
+                    Radius = 250,
+                    MissileSpeed = int.MaxValue,
+                    FixedRange = false,
+                    AddHitbox = true,
+                    DangerValue = 3,
+                    IsDangerous = true,
+                    MissileSpellName = "",
+                });
+                
+            //TODO: Yorick E
+            
             #endregion Yorick
 
             #region Zac
