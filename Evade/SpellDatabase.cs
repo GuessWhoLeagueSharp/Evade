@@ -3405,15 +3405,15 @@ namespace Evade
                     SpellName = "RivenMarty",
                     Slot = SpellSlot.W,
                     Type = SkillShotType.SkillshotCircle,
-                    Delay = 250,
-                    Range = 280,
+                    Delay = 0,
+                    Range = 650,
                     Radius = 280,
                     MissileSpeed = int.MaxValue,
                     FixedRange = true,
                     AddHitbox = true,
                     DangerValue = 3,
                     IsDangerous = true,
-                    MissileSpellName = "",
+                    MissileSpellName = "RivenMartyr",
                 });
 
             Spells.Add(
