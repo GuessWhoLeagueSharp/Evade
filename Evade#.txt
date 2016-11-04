@@ -30,7 +30,7 @@ Patch Notes:
 	Azir Q and R
 	Alistar Q
 	Chogath W
-	Graves W
+	Graves W and R (Cone at end/explosion)
 	Hecarim R
 	Heimerdinger turret shot, big and small
 	Jarvan R
@@ -44,5 +44,6 @@ Patch Notes:
 	Soraka E
 	Twitch R
 	Viktor W
+	Yorick W
 	Zac E and R
 	Zyra R
