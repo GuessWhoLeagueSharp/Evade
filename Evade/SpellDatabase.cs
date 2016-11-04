@@ -1605,9 +1605,27 @@ namespace Evade
                     DangerValue = 5,
                     IsDangerous = true,
                     MissileSpellName = "GravesChargeShotShot",
-                    CollisionObjects =
-                        new[]
-                        {CollisionObjectTypes.Champions, CollisionObjectTypes.Minion, CollisionObjectTypes.YasuoWall},
+                    CollisionObjects = new[] {CollisionObjectTypes.YasuoWall},
+                });
+            
+            Spells.Add(
+                new SpellData
+                {
+                    ChampionName = "Graves",
+                    SpellName = "GravesChargeShotFxMissile",
+                    Slot = SpellSlot.R,
+                    Type = SkillShotType.SkillshotMissileLine,
+                    Delay = 250,
+                    Range = 1000,
+                    Radius = 100,
+                    MissileSpeed = 2000,
+                    FixedRange = true,
+                    AddHitbox = true,
+                    DangerValue = 5,
+                    IsDangerous = true,
+                    MissileSpellName = "GravesChargeShotFxMissile",
+                    ExtraMissileNames = new []{ "GravesChargeShotFxMissile2" },
+                    CollisionObjects = new[] {CollisionObjectTypes.YasuoWall},
                 });
 
             #endregion Graves
