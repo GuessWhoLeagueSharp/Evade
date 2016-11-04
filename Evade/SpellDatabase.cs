@@ -1702,7 +1702,7 @@ namespace Evade
                     SpellName = "HeimerdingerE",
                     Slot = SpellSlot.E,
                     Type = SkillShotType.SkillshotCircle,
-                    Delay = 250,
+                    Delay = 325,
                     Range = 925,
                     Radius = 210,
                     MissileSpeed = 1200,
@@ -1711,6 +1711,7 @@ namespace Evade
                     DangerValue = 2,
                     IsDangerous = false,
                     MissileSpellName = "heimerdingerespell",
+                    ExtraMissileNames = new[] { "heimerdingerespell_ult", "heimerdingerespell_ult2", "heimerdingerespell_ult3" },
                     CollisionObjects = new[] {CollisionObjectTypes.YasuoWall},
                 });
 
