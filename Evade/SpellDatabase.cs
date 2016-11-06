@@ -1548,9 +1548,27 @@ namespace Evade
                     ExtraMissileNames = new[] {"GravesQReturn"},
                     CollisionObjects = new[] {CollisionObjectTypes.YasuoWall},
                 });
+            
+            Spells.Add(
+                    new SpellData
+                    {
+                        ChampionName = "Graves",
+                        SpellName = "GravesQLineSpell",
+                        Slot = SpellSlot.Q,
+                        Type = SkillShotType.SkillshotMissileLine,
+                        Delay = 250,
+                        Range = 900,
+                        Radius = 100,
+                        MissileSpeed = 1600,
+                        FixedRange = true,
+                        AddHitbox = true,
+                        DangerValue = 2,
+                        IsDangerous = false,
+                        MissileSpellName = "GravesQReturn",
+                    });
 
             //TODO: Fix split detection
-            Spells.Add(
+            /*Spells.Add(
                 new SpellData
                 {
                     ChampionName = "Graves",
@@ -1567,7 +1585,7 @@ namespace Evade
                     IsDangerous = false,
                     MissileSpellName = "",
                     CollisionObjects = new[] {CollisionObjectTypes.YasuoWall},
-                });
+                });*/
 
             Spells.Add(
                 new SpellData
