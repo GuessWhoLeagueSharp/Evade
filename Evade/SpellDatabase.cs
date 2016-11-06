@@ -4522,7 +4522,7 @@ namespace Evade
                     MissileSpellName = "",
                 });
 
-            Spells.Add(
+            /*Spells.Add(
                 new SpellData
                 {
                     ChampionName = "Viktor",
@@ -4535,6 +4535,26 @@ namespace Evade
                     Range = 1500,
                     Radius = 80,
                     MissileSpeed = 1350,
+                    FixedRange = false,
+                    AddHitbox = true,
+                    DangerValue = 2,
+                    IsDangerous = false,
+                    MissileSpellName = "ViktorDeathRayMissile",
+                    ExtraMissileNames = new[] {"viktoreaugmissile"},
+                    CollisionObjects = new[] {CollisionObjectTypes.YasuoWall},
+                });*/
+            
+            Spells.Add(
+                new SpellData
+                {
+                    ChampionName = "Viktor",
+                    SpellName = "Laser",
+                    Slot = SpellSlot.E,
+                    Type = SkillShotType.SkillshotMissileLine,
+                    Delay = 250,
+                    Range = 1500,
+                    Radius = 80,
+                    MissileSpeed = 1050,
                     FixedRange = false,
                     AddHitbox = true,
                     DangerValue = 2,
