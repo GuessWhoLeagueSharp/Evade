@@ -9,7 +9,6 @@ Sejuani R (AOE)?
 Sion Q
 Yorick E
 
-Fix velkoz w
 Fix Zed E
 Fix Graves Q split and return
 Fix Riven W
@@ -22,6 +21,7 @@ Patch Notes:
 -Fixed Rengar empowered E detection
 -Fixed Poppy Q
 -Fixed pulsfire Ezreal Q
+-Fixed Velkoz W
 -Fixed Viktor E
 -Fixed Malzahar Q
 -Fixed Nami Q
