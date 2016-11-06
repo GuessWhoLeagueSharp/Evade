@@ -10,7 +10,7 @@ Sion Q
 Yorick E
 
 Fix Zed E
-Fix Graves Q split and return
+Fix Graves Q split
 Fix Riven W
 Fix Snowball Aram
 Fix Vlad R
