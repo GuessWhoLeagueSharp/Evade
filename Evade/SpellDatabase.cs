@@ -2914,7 +2914,7 @@ namespace Evade
                     MissileSpellName = "",
                 });
             
-            Spells.Add(
+            /*Spells.Add(
                 new SpellData
                 {
                     ChampionName = "Maokai",
@@ -2930,7 +2930,7 @@ namespace Evade
                     DangerValue = 3,
                     IsDangerous = true,
                     MissileSpellName = "",
-                });
+                });*/
             
             Spells.Add(
                 new SpellData
@@ -4446,7 +4446,6 @@ namespace Evade
                     Slot = SpellSlot.W,
                     Type = SkillShotType.SkillshotMissileLine,
                     Delay = 250,
-                    ExtraDuration = 1000,
                     Range = 1150,
                     Radius = 90,
                     MissileSpeed = 1700,
@@ -4455,6 +4454,7 @@ namespace Evade
                     DangerValue = 2,
                     IsDangerous = false,
                     MissileSpellName = "VelkozWMissile",
+                    ExtraDuration = 1000,
                 });
 
             Spells.Add(
@@ -4559,6 +4559,7 @@ namespace Evade
                     IsDangerous = true,
                     MissileSpellName = "ViktorDeathRayMissile",
                     ExtraMissileNames = new[] {"viktoreaugmissile"},
+                    ExtraDuration = 1000,
                     CollisionObjects = new[] {CollisionObjectTypes.YasuoWall},
                 });
 
