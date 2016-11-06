@@ -30,7 +30,7 @@ Patch Notes:
 	Azir Q and R
 	Alistar Q
 	Chogath W
-	Graves W and R (Cone at end/explosion)
+	Graves Q (Return), W and R (Cone at end/explosion)
 	Hecarim R
 	Heimerdinger turret shot, big and small
 	Jarvan R
