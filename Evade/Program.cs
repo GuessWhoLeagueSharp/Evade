@@ -144,7 +144,6 @@ namespace Evade
                 Benchmarking.Benchmark.Initialize();
             }
             
-            Game.PrintChat("GuessWho's Evade#");
         }
         private static void DetectedSkillshots_OnAdd(object sender, EventArgs e)
         {
