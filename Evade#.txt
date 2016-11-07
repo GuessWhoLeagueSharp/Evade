@@ -14,6 +14,7 @@ Fix Graves Q split
 Fix Riven W
 Fix Snowball Aram
 Fix Vlad R
+Fix Velkoz W and Viktor E extra end time
 
 Patch Notes:
 -Cleaned up the code so it is easier to read/navigate/update
@@ -21,8 +22,6 @@ Patch Notes:
 -Fixed Rengar empowered E detection
 -Fixed Poppy Q
 -Fixed pulsfire Ezreal Q
--Fixed Velkoz W
--Fixed Viktor E
 -Fixed Malzahar Q
 -Fixed Nami Q
 -Fixed Thresh Q
