@@ -33,10 +33,10 @@ Patch Notes:
 	Chogath W
 	Graves Q (Return), W and R (Cone at end/explosion)
 	Hecarim R
-	Heimerdinger turret shot, big and small
+	Heimerdinger turret shot (Big and small), added E (ult)
 	Jarvan R
 	Kassadin E
-	Lissandra W
+	Lissandra W and E
 	Maokai Q and E
 	Mord E
 	Pantheon E
