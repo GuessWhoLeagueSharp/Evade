@@ -16,6 +16,8 @@ Fix Snowball Aram
 Fix Vlad R
 Fix Velkoz W and Viktor E extra end time
 
+
+
 Patch Notes:
 -Cleaned up the code so it is easier to read/navigate/update
 -Updated over 230 spell values to be in line with path 6.19
