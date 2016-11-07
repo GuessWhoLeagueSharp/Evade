@@ -144,7 +144,7 @@ namespace Evade
                 Benchmarking.Benchmark.Initialize();
             }
             
-            Game.PrintChat("<font size='30'>Updated Evade#</font> <font color='#b756c5'>by GuessWho</font>");
+            Game.PrintChat("<font color='#08f200'>Evade# (Updated)</font> <font color='#ffffff'>by</font> <font color='#F3A161'>by GuessWho</font>");
         }
         private static void DetectedSkillshots_OnAdd(object sender, EventArgs e)
         {
