@@ -4215,6 +4215,7 @@ namespace Evade
                     DangerValue = 2,
                     IsDangerous = false,
                     MissileSpellName = "TwitchVenomCaskMissile",
+                    ExtraDuration = 3000,
                     CollisionObjects = new[] {CollisionObjectTypes.YasuoWall},
                 });
 
