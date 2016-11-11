@@ -79,7 +79,7 @@ namespace Evade
             #endregion Test
                 
             //TODO: Fix detection
-            #region AllChampions
+            /*#region AllChampions
 
             Spells.Add(
                 new SpellData
@@ -101,7 +101,7 @@ namespace Evade
                     CollisionObjects = new[] {CollisionObjectTypes.Champions, CollisionObjectTypes.Minion, CollisionObjectTypes.YasuoWall}
                 });
 
-            #endregion AllChampions
+            #endregion AllChampions*/
 
             #region Aatrox
 
