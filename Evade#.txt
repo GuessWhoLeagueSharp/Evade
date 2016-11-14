@@ -10,6 +10,7 @@ Sion Q
 Yorick E
 Fizz ult now grows
 Rengar Q
+Illaoi tenticles (Passive?)
 
 Fix Zed E
 Fix Graves Q split
