@@ -21,7 +21,7 @@ Fix Velkoz W and Viktor E extra end time
 
 
 
-Patch Notes:
+Patch Notes (Changes made so far):
 -Cleaned up the code so it is easier to read/navigate/update
 -Updated over 230 spell values to be in line with path 6.19
 -Fixed Rengar empowered E detection
