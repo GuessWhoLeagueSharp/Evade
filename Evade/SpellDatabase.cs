@@ -1239,7 +1239,7 @@ namespace Evade
                     Slot = SpellSlot.R,
                     Type = SkillShotType.SkillshotMissileLine,
                     Delay = 250,
-                    Range = 1300,
+                    Range = 1275,
                     Radius = 110,
                     MissileSpeed = 1300,
                     FixedRange = false,
